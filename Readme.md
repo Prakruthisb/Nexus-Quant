@@ -273,17 +273,3 @@ Generates a plain-English explanation covering trend reasoning, RSI interpretati
 ## ⚠️ Disclaimer
 
 This project is built for **educational and portfolio demonstration purposes only**. The analysis generated is not financial advice. Stock market investments carry risk. Always consult a certified financial advisor before making investment decisions.
-
----
-
-## 👩‍💻 Author
-
-**Prakruthi** — Final Year B.E. Computer Science, DBIT Bengaluru  
-Stack: Python · FastAPI · NumPy · Claude API · HTML/CSS/JS  
-Domain: AI/ML · GenAI · Financial Intelligence Systems
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute with attribution.
